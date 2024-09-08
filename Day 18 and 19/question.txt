@@ -1,0 +1,7 @@
+Create a new file "practice.txt" using Python. Add the following data.
+
+Hi everyone
+we are learning File I/O
+using Java
+I like programming in Java.
+

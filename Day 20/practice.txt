@@ -1,0 +1,16 @@
+Qs. 1. Create a new file "demo.txt" using Python. Add the following data in it.
+
+Hi everyone
+we are learning Java.
+In Java, we are learning file i/o.
+I like programming in Java.
+
+Qs.2. WAP that replace all occurrences of "Java" with "Python" in above file.
+
+Qs. 3. Search if the word "learning" exists in the file or not. Please print "Found" if data exists, otherwise print "Not found".
+
+Hint: 
+You need to use '.find()' method.
+For example:
+if data.find("learning") != -1:
+    .....

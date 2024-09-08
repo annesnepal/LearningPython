@@ -1,0 +1,4 @@
+Hi everyone 
+we are learning Java.
+In Java, we are learning file i/o.
+I like programming in Java.
